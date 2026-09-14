@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://her-transport.github.io/HER-TRANSPORT/sitemap.xml

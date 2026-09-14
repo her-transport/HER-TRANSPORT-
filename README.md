@@ -1,27 +1,16 @@
-# HER Transport Website
+# HER Transport — Website
 
-Website landing page modern untuk HER Transport, terinspirasi pola website layanan taxi modern tetapi dengan branding dan desain orisinal.
+Website HER Transport — taxi online & antar jemput.
 
-## File
+Website: https://her-transport.github.io/HER-TRANSPORT/
+
+## Struktur
 - index.html
 - style.css
 - script.js
-- assets/logo.png
-- assets/promo.jpg
+- 404.html
+- robots.txt
+- sitemap.xml
+- assets/
 
-## Nomor WhatsApp
-Nomor yang digunakan: 0831-7217-6645.
-
-Jika nomor berubah, ubah `WA` di `script.js` dan link `wa.me` di `index.html`.
-
-## GitHub Pages
-Upload semua file ke root repository:
-- index.html
-- style.css
-- script.js
-- assets/logo.png
-- assets/promo.jpg
-
-Lalu Settings → Pages → Deploy from a branch → main → /(root).
-
-Tidak membutuhkan database atau hosting backend; form booking membuka WhatsApp.
+© 2026 ARL PROJECT
